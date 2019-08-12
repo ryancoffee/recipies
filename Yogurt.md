@@ -1,10 +1,10 @@
 # Ryan's Home Made Yogurt  
 
-8 oz	previous bacth of yogurt (if reserved)  
-8 oz 	Chobani cup  
-8 oz 	Skyyr cup  
-16 oz 	Clover Organic Cream Top  
-3/4 gal	Whole Milk  
+- 8 oz previous bacth of yogurt (if reserved)  
+- 8 oz Chobani cup  
+- 8 oz Siggi's Skyyr cup  
+- 16 oz Clover Organic Cream Top  
+- 3/4 gal Whole Milk  
 
 Warm the milk, stirring regularly, to 175F.  
 Let cool slowly.  
